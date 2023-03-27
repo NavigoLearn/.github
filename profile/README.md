@@ -32,7 +32,8 @@ We hope to create a supportive and inclusive community where everyone can nerd a
 
 ## Contact us
 
-We are working on a contact form, but for now, you can contact us via [email](mailto:navigo@sopy.one).
+We are working on a contact form, but for now, you can contact us via [email](mailto:navigolearn@gmail.com).
 
 ## Follow us
+
 If you want to see our progress and support our project, please follow our organization here on GitHub. We appreciate your interest and feedback.
