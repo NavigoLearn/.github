@@ -1,4 +1,4 @@
-# NavigoLearn 📚🚀
+# NavigoLearn 📚🚀🌱
 ## You can't know what you don't know. 🤷‍♂️
 NavigoLearn is a community-driven and open-source project that aims to help people learn programming. Access to community-made roadmaps saves you from the hassle of figuring out what to do when learning a new topic.🙌
 
@@ -36,4 +36,4 @@ We are working on a contact form, but for now, you can contact us via [email](ma
 
 ## Follow us 👀
 
-If you want to see our progress and support our project, please follow our organization here on GitHub. We appreciate your interest and feedback.🙏👍
+If you want to see our progress and support our project, please follow our organization here on GitHub. We appreciate your interest and feedback.🙏👍📣🎉
