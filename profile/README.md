@@ -27,7 +27,7 @@ Suppose you plan on creating a pull request, please read our contributing guidel
 
 ## Who are we? 👥
 
-We are a group of five University 🎓 students in Cluj-Napoca, Romania 🇷🇴 passionate about technology and learning. We created NavigoLearn as a way to help people share their knowledge and experience, as well as help new learners find their way in programming. 🖥️
+We are a group of four University 🎓 students in Cluj-Napoca, Romania 🇷🇴 passionate about technology and learning. We created NavigoLearn as a way to help people share their knowledge and experience, as well as help new learners find their way in programming. 🖥️
 
 We hope to create a supportive and inclusive community where everyone can nerd about what they love. If you want to know more about us, the time will come... a bit later.
 
